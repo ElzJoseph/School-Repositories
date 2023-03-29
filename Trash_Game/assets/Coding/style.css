@@ -1,0 +1,10 @@
+.container{
+	width:  650px;
+	height: 975px;
+	position:  relative;
+}
+#canvas{
+
+	position: absolute;
+	left: 30vw;
+}
